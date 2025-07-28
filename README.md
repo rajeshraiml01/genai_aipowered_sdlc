@@ -44,11 +44,6 @@ An intelligent, end-to-end **Software Development Life Cycle (SDLC)** automation
 
 ---
 
-## 💻 Run Using Streamlit
-
-https://ai-powered-sdlc-assistant-latest.streamlit.app/
-
-
 
 ### Prerequisites
 - Python 3.10+
